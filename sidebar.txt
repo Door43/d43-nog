@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nog:home|Door43 (nog)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nog|d43-nog repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nog/archive/master.zip|d43-nog.zip]]
+
+**Recent Changes**
+{{changes>ns = nog}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nog|Ethnologue data]]
+
